@@ -52,4 +52,11 @@ This is the Waiting screen where the designated player can set the rules of the 
 **Start Health**: How much health each player has when the game begins <br/>
 
 ## Screenshots
-
+> Screen shown between games where players can pick the map
+<img src="https://github.com/hp-all/PlanetsGame/blob/main/Screenshots/BetweenGameScreen.png" width="700"><br/><br/>
+> Example of how the game looks when the game is started
+<img src="https://github.com/hp-all/PlanetsGame/blob/main/Screenshots/GameMap1.png" width="700"><br/><br/>
+> Player tries to shoot a projectile around a planet
+<img src="https://github.com/hp-all/PlanetsGame/blob/main/Screenshots/GameMap1Action.png" width="700"><br/><br/>
+> Player shown jumping from one planet to the other
+<img src="https://github.com/hp-all/PlanetsGame/blob/main/Screenshots/GameMap2Action.png" width="700"><br/><br/>
