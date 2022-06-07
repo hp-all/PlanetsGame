@@ -26,4 +26,5 @@ A simple 2D pvp game. Use the gravity of the planets to your advantage to win.
 Note: This game is only set up to run locally, so all players need to be on the same network in order to play.
 ### Playing on different computers
 1. Find the IP address of the Host computer (this is displayed on the window that pops up when the server is run for your convenience)
+![alt text](https://github.com/hp-all/PlanetsGame/blob/main/Screenshots/ServerScreen.png?raw=true)
 ### Playing on the same computer for testing
