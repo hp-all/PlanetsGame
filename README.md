@@ -4,12 +4,12 @@ A simple 2D pvp game. Use the gravity of the planets to your advantage to win.
 2-4 players
 ## How to Play
 ### Controls
-- W: Jump
-- A: Move counter-clockwise around the planet you are standing on
-- S: Move clockwise around the planet you are standing on
-- D: When in the air, press D to fall down to the nearest planet faster
-- Space/Left Click: Pressing will shoot a small projectile. Holding, then releasing the button will charge then release a larger projectile that will move faster
-- Mouse: Use the mouse to aim where you want to shoot
+- **W**: Jump
+- **A**: Move counter-clockwise around the planet you are standing on
+- **S**: Move clockwise around the planet you are standing on
+- **D**: When in the air, press D to fall down to the nearest planet faster
+- **Space/Left Click**: Pressing will shoot a small projectile. Holding, then releasing the button will charge then release a larger projectile that will move faster
+- **Mouse**: Use the mouse to aim where you want to shoot
 ### Playing the Game
 - Hit your enemies with your projectiles to deal damage and get your enemies' health bars to 0
 - Be the last person standing to win
@@ -26,5 +26,6 @@ A simple 2D pvp game. Use the gravity of the planets to your advantage to win.
 Note: This game is only set up to run locally, so all players need to be on the same network in order to play.
 ### Playing on different computers
 1. Find the IP address of the Host computer (this is displayed on the window that pops up when the server is run for your convenience)
-![alt text](https://github.com/hp-all/PlanetsGame/blob/main/Screenshots/ServerScreen.png?raw=true)
+![Server Screen](https://github.com/hp-all/PlanetsGame/blob/main/Screenshots/ServerScreen.png {width=200px height=200px})
+<img src="https://github.com/hp-all/PlanetsGame/blob/main/Screenshots/ServerScreen.png" width="200">
 ### Playing on the same computer for testing
